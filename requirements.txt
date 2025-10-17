@@ -1,4 +1,3 @@
-"GOOGLE_API_KEY" = AIzaSyCr9Wg7UXvvVMkNN0jZK8qKV7qeqdHCYSo
 
 streamlit
 pandas
